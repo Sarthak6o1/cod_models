@@ -4,8 +4,8 @@ import pickle
 import zipfile
 import io
 
-INCOMPLETE = r"C:\Users\gsart\Downloads\cod_models_github\.git\lfs\incomplete"
-CKPT_DIR = r"C:\Users\gsart\Downloads\cod_models_github\IFBO_NET_V3_checkpoints"
+INCOMPLETE = r"C:\cod_models_github\.git\lfs\incomplete"
+CKPT_DIR = r"C:\checkpoint\IFBO_NET_V3_checkpoints"
 
 
 def find_sources():
